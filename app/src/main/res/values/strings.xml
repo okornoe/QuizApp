@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+
+    <!-- Strings for question one layout -->
+    <string name="question_number_one">Q.1.</string>
+    <string name="question_one_text">What is the Capital City of Ghana</string>
+    <string name="question_one_optionOne_radioButton">Accra</string>
+    <string name="question_one_optionTwo_radioButton">London</string>
+    <string name="question_one_optionThree_radioButton">Kumasi</string>
+    <string name="question_one_optionFour_radioButton">Cape Coast</string>
+
+    <!-- Strings for question two layout -->
+    <string name="question_number_two">Q.2.</string>
+    <string name="question_two_text">What is the Capital City of Nigeria</string>
+    <string name="question_two_optionOne_radioButton">Lagos</string>
+    <string name="question_two_optionTwo_radioButton">Abuja</string>
+    <string name="question_two_optionThree_radioButton">Kigali</string>
+    <string name="question_two_optionFour_radioButton">Cario</string>
+
+    <!-- Strings for question three layout -->
+    <string name="question_number_three">Q.3.</string>
+    <string name="question_three_text">Select the African Country/Countries</string>
+    <string name="question_three_optionOne_checkBox">Nigeria</string>
+    <string name="question_three_optionTwo_checkBox">Switzerland</string>
+    <string name="question_three_optionThree_checkBox">Swaziland</string>
+    <string name="question_three_optionFour_checkBox">Nairobi</string>
+    <string name="question_three_optionFive_checkBox">Kenya</string>
+
+    <!-- Strings for question four layout -->
+    <string name="question_number_four">Q.4.</string>
+    <string name="question_four_text">Name the country in Africa with the highest population</string>
+    <string name="question_four_editText"></string>
+
+
+    <!-- Strings for question five layout -->
+    <string name="question_number_five">Q.5.</string>
+    <string name="question_five_text">Select Country/Countries from West Africa </string>
+    <string name="question_five_optionOne_checkBox">Benin</string>
+    <string name="question_five_optionTwo_checkBox">Ghana</string>
+    <string name="question_five_optionThree_checkBox">Morocco</string>
+    <string name="question_five_optionFour_checkBox">Ivory Coast</string>
+    <string name="question_five_optionFive_checkBox">Zimbabwe</string>
+
+
+    <!-- Submit Quiz Button -->
+    <string name="submit_quiz">Submit Quiz</string>
+
+    <!-- Reset Score Button -->
+    <string name="reset_score">Reset</string>
+</resources>
